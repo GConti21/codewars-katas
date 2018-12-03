@@ -1,0 +1,24 @@
+# References:
+#    https://gist.github.com/dedunumax/54e82214715e35439227
+#    https://gist.github.com/edesdan/6bb43343740bcd54ef0f56a384a2f66f
+
+## Java
+*.class
+*.jar
+*.war
+*.ear
+
+## Package files
+.zip
+*.tar.gz
+*.rar
+
+## Maven
+target/
+
+## IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
